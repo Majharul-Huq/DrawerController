@@ -1,0 +1,16 @@
+PODS:
+  - DrawerController (0.1.0)
+
+DEPENDENCIES:
+  - DrawerController (from `../`)
+
+EXTERNAL SOURCES:
+  DrawerController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DrawerController: 6df46f2786e047a4985be6b533b8f12d481df5d1
+
+PODFILE CHECKSUM: 6b879b86cb2adf33a7415c5a6c0b9913f83d19a4
+
+COCOAPODS: 1.0.0

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DrawerController_Tests' do
+  pod 'DrawerController', :path => '../'
+  
+  
+end
