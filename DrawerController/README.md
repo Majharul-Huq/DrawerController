@@ -1,5 +1,5 @@
 # DrawerController
-<<<<<<< HEAD
+
 
 [![CI Status](http://img.shields.io/travis/Majharul Huq/DrawerController.svg?style=flat)](https://travis-ci.org/Majharul Huq/DrawerController)
 [![Version](https://img.shields.io/cocoapods/v/DrawerController.svg?style=flat)](http://cocoapods.org/pods/DrawerController)
@@ -28,5 +28,4 @@ Majharul Huq, sumancsc@gmail.com
 ## License
 
 DrawerController is available under the MIT license. See the LICENSE file for more info.
-=======
->>>>>>> dd28e77691f28c4f7e3ab1ff0e10129b05e76822
+
